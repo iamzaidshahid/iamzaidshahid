@@ -1,16 +1,16 @@
 # Muhammad Zaid Shahid
 
-**Cyber Security Analyst | Detection engineering | SOC automation | Wazuh**
+**Cyber Security Analyst | SIEM Engineering | SOC Automation | Wazuh**
 
-Cyber security engineer in Islamabad, Pakistan, building detection rules and SIEM infrastructure. Open to remote roles in SOC operations and detection engineering.
+Cybersecurity professional in Islamabad, Pakistan, building SIEM infrastructure, correlation rules and security dashboards. Open to remote roles as a Cyber Security Engineer, SIEM Engineer or SOC Analyst.
 
 ## Featured project
-**[wazuh-detection-lab](https://github.com/iamzaidshahid/wazuh-detection-lab)**: custom Wazuh detection rules for brute force attacks, ransomware activity, and data exfiltration, mapped to MITRE ATT&CK.
+**[wazuh-siem-lab](https://github.com/iamzaidshahid/wazuh-siem-lab)**: 47 custom Wazuh correlation rules for brute force, ransomware, process injection, data exfiltration and LOLBins, mapped to MITRE ATT&CK, with Sysmon telemetry, Grafana dashboards and IRIS case tracking.
 
 ## What I've built
 - **Wazuh SIEM deployment:** centralized log collection, event correlation, and real-time alerting across 10+ endpoints, with custom correlation rules and threat intelligence feeds
-- **Endpoint telemetry:** Sysmon integration to detect brute force sequences and suspicious authentication patterns
-- **Behavioral detection:** unusual file access, abnormal outbound connections, and lateral movement, aligned with MITRE ATT&CK
+- **Endpoint telemetry:** Sysmon integration to catch brute force sequences and suspicious authentication patterns
+- **Behavioral monitoring:** unusual file access, abnormal outbound connections, and lateral movement, aligned with MITRE ATT&CK
 - **Alert enrichment:** VirusTotal lookups for automated triage of suspicious files, IPs, and domains
 - **Incident management:** IRIS for structured case tracking and faster response
 - **Dashboards:** 5+ Grafana dashboards for real-time security event visualization
@@ -18,7 +18,7 @@ Cyber security engineer in Islamabad, Pakistan, building detection rules and SIE
 
 ## Experience
 - **NOC Engineer**, A Hamson (Jun 2026 to present): 24/7 network monitoring, alert triage, L1/L2 incident response
-- **Cybersecurity Analyst**, A Hamson (Nov 2025 to Jun 2026): SIEM/SOC deployment and detection engineering
+- **Cybersecurity Analyst**, A Hamson (Nov 2025 to Jun 2026): SIEM and SOC deployment, alert triage and incident response
 - **Cybersecurity Offensive Intern**, ITSolera (Jan to Apr 2026): penetration testing and vulnerability assessment
 
 ## Tools
