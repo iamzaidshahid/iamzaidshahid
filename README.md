@@ -28,4 +28,4 @@ Wazuh · Sysmon · MITRE ATT&CK · Grafana · IRIS · VirusTotal · Zabbix · Li
 BS Artificial Intelligence, University of Management and Technology, Lahore
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/iamzaidshahid1)
+[Portfolio](https://iamzaidshahid.github.io) · [LinkedIn](https://linkedin.com/in/iamzaidshahid1)
